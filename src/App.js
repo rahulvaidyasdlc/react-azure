@@ -20,7 +20,7 @@ function App() {
       </div>
 
       <p style={{ marginTop: '20px', color: '#61dafb' }}>
-        Current Status: 🟢 Live on Azure Static Web Apps
+        Current Status: 🟢 Live on Azure Static Web Apps checking auto commit
       </p>
     </div>
   );
